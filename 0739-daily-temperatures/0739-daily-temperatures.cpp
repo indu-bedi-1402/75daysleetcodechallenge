@@ -1,22 +1,19 @@
-#include <vector>
-using namespace std;
-
 class Solution {
 public:
     vector<int> dailyTemperatures(vector<int>& temperatures) {
         int n = temperatures.size();
-        vector<int> ans(n, 0);
-        vector<int> stack; // will store indices
+        vector<int> answer(n, 0);
+        stack<int> st; // stores indices
 
-        for (int i = 0; i < n; i++) {
-            while (!stack.empty() && temperatures[i] > temperatures[stack.back()]) {
-                int idx = stack.back();
-                stack.pop_back();
-                ans[idx] = i - idx;
+        for(int i = 0; i < n; i++) {
+            while(!st.empty() && temperatures[i] > temperatures[st.top()]) {
+                int prev = st.top();
+                st.pop();
+                answer[prev] = i - prev;
             }
-            stack.push_back(i);
+            st.push(i);
         }
 
-        return ans;
+        return answer;
     }
 };
