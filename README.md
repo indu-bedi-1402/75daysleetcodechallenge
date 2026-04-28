@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/indu-bedi-1402/75daysleetcodechallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/indu-bedi-1402/75daysleetcodechallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/indu-bedi-1402/75daysleetcodechallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/indu-bedi-1402/75daysleetcodechallenge/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/indu-bedi-1402/75daysleetcodechallenge/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/indu-bedi-1402/75daysleetcodechallenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/indu-bedi-1402/75daysleetcodechallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/indu-bedi-1402/75daysleetcodechallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/indu-bedi-1402/75daysleetcodechallenge/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/indu-bedi-1402/75daysleetcodechallenge/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/indu-bedi-1402/75daysleetcodechallenge/tree/master/0169-majority-element) |
 | [0208-implement-trie-prefix-tree](https://github.com/indu-bedi-1402/75daysleetcodechallenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/indu-bedi-1402/75daysleetcodechallenge/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/indu-bedi-1402/75daysleetcodechallenge/tree/master/0424-longest-repeating-character-replacement) |
@@ -49,10 +51,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/indu-bedi-1402/75daysleetcodechallenge/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/indu-bedi-1402/75daysleetcodechallenge/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/indu-bedi-1402/75daysleetcodechallenge/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/indu-bedi-1402/75daysleetcodechallenge/tree/master/0347-top-k-frequent-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/indu-bedi-1402/75daysleetcodechallenge/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/indu-bedi-1402/75daysleetcodechallenge/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
 |  |
@@ -65,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/indu-bedi-1402/75daysleetcodechallenge/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/indu-bedi-1402/75daysleetcodechallenge/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
